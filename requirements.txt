@@ -1,5 +1,4 @@
-streamlit
-pandas
 numpy
+pandas
+streamlit
 scikit-learn==0.21.3
-
